@@ -1,0 +1,38 @@
+{
+    "appName": "माशरेक़ असाइनमेंट",
+    "selectLanguage": "भाषा चुनें",
+    "signUp": {
+      "signUp": "साइन अप करें",
+      "email": "ईमेल",
+      "username": "उपयोगकर्ता नाम",
+      "password": "पासवर्ड",
+      "confirmPassword": "पासवर्ड की पुष्टि करें",
+      "country": "देश चुनें",
+      "submitBtn": "साइन अप करें",
+      "countries": {
+        "India": "भारत",
+        "Spain": "स्पेन",
+        "Thailand": "थाईलैंड",
+        "UnitedKingdom": "यूनाइटेड किंगडम"
+      },
+      "errors": {
+        "userNameRequired": "उपयोगकर्ता नाम खाली नहीं हो सकता",
+        "emailRequired": "ईमेल खाली नहीं हो सकता",
+        "emailError": "कृपया मान्य ईमेल दर्ज करें",
+        "passwordsDoNotMatch": "पासवर्ड मेल नहीं खाते",
+        "passwordRequired": "पासवर्ड खाली नहीं हो सकता",
+        "Username should be alphanumeric with atleast 5 characters": "उपयोगकर्ता नाम अल्फ़ान्यूमेरिक होना चाहिए और कम से कम 5 वर्ण होने चाहिए",
+        "Username should begin with alphabets and can be alphanumeric with atleast 5 characters": "उपयोगकर्ता नाम वर्णमाला से शुरू होना चाहिए और कम से कम 5 वर्णों के साथ अल्फ़ान्यूमेरिक हो सकता है",
+        "Username should contain alphabets and atleast 6 characters": "उपयोगकर्ता नाम में वर्णमाला और कम से कम 6 वर्ण होने चाहिए",
+        "Username should contain lower case alphabets and atleast 4 characters": "उपयोगकर्ता नाम में छोटे अक्षर और कम से कम 4 वर्ण होने चाहिए",
+        "Invalid Username password or country": "अमान्य उपयोगकर्ता नाम, पासवर्ड या देश"
+      }
+    },
+    "home": {
+      "welcome": "स्वागत है",
+      "email": "ईमेल: ",
+      "country": "देश: ",
+      "logout": "लॉगआउट"
+    }
+  }
+  

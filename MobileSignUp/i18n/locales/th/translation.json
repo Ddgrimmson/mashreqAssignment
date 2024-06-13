@@ -1,0 +1,38 @@
+{
+    "appName": "มอบหมายงาน Mashreq",
+    "selectLanguage": "เลือกภาษา",
+    "signUp": {
+      "signUp": "ลงทะเบียน",
+      "email": "อีเมล",
+      "username": "ชื่อผู้ใช้",
+      "password": "รหัสผ่าน",
+      "confirmPassword": "ยืนยันรหัสผ่าน",
+      "country": "เลือกประเทศ",
+      "submitBtn": "ลงทะเบียน",
+      "countries": {
+        "India": "อินเดีย",
+        "Spain": "สเปน",
+        "Thailand": "ประเทศไทย",
+        "UnitedKingdom": "สหราชอาณาจักร"
+      },
+      "errors": {
+        "userNameRequired": "ชื่อผู้ใช้ไม่สามารถเว้นว่างได้",
+        "emailRequired": "อีเมลไม่สามารถเว้นว่างได้",
+        "emailError": "โปรดใส่อีเมลที่ถูกต้อง",
+        "passwordsDoNotMatch": "รหัสผ่านไม่ตรงกัน",
+        "passwordRequired": "รหัสผ่านไม่สามารถเว้นว่างได้",
+        "Username should be alphanumeric with atleast 5 characters": "ชื่อผู้ใช้ควรเป็นอักษรและตัวเลขอย่างน้อย 5 ตัวอักษร",
+        "Username should begin with alphabets and can be alphanumeric with atleast 5 characters": "ชื่อผู้ใช้ควรเริ่มด้วยตัวอักษรและสามารถเป็นอักษรและตัวเลขได้อย่างน้อย 5 ตัวอักษร",
+        "Username should contain alphabets and atleast 6 characters": "ชื่อผู้ใช้ควรประกอบด้วยตัวอักษรและมีอย่างน้อย 6 ตัวอักษร",
+        "Username should contain lower case alphabets and atleast 4 characters": "ชื่อผู้ใช้ควรประกอบด้วยตัวอักษรพิมพ์เล็กและมีอย่างน้อย 4 ตัวอักษร",
+        "Invalid Username password or country": "ชื่อผู้ใช้ รหัสผ่าน หรือประเทศไม่ถูกต้อง"
+      }
+    },
+    "home": {
+      "welcome": "ยินดีต้อนรับ",
+      "email": "อีเมล: ",
+      "country": "ประเทศ: ",
+      "logout": "ออกจากระบบ"
+    }
+  }
+  

@@ -1,0 +1,31 @@
+{
+    "appName": "Asignación Mashreq",
+    "selectLanguage": "Seleccionar idioma",
+    "login": {
+      "signIn": "Iniciar sesión",
+      "username": "Nombre de usuario",
+      "password": "Contraseña",
+      "country": "País",
+      "submitBtn": "Iniciar sesión",
+      "countries": {
+        "India": "India",
+        "Spain": "España",
+        "Thailand": "Tailandia",
+        "UnitedKingdom": "Reino Unido"
+      },
+      "errors": {
+        "Username should be alphanumeric with atleast 5 characters": "El nombre de usuario debe ser alfanumérico y tener al menos 5 caracteres",
+        "Username should begin with alphabets and can be alphanumeric with atleast 5 characters": "El nombre de usuario debe comenzar con letras y puede ser alfanumérico con al menos 5 caracteres",
+        "Username should contain alphabets and atleast 6 characters": "El nombre de usuario debe contener letras y al menos 6 caracteres",
+        "Username should contain lower case alphabets and atleast 4 characters": "El nombre de usuario debe contener letras minúsculas y al menos 4 caracteres",
+        "Invlaid Username password or country": "Nombre de usuario, contraseña o país no válido"
+      }
+    },
+    "home": {
+      "welcome": "Bienvenido",
+      "email": "Correo electrónico",
+      "country": "País",
+      "logout": "Cerrar sesión"
+    }
+  }
+  

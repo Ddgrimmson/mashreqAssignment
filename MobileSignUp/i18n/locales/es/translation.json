@@ -1,0 +1,38 @@
+{
+    "appName": "Asignación Mashreq",
+    "selectLanguage": "Seleccionar idioma",
+    "signUp": {
+      "signUp": "Registrarse",
+      "email": "Correo electrónico",
+      "username": "Nombre de usuario",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "country": "Seleccionar país",
+      "submitBtn": "Registrarse",
+      "countries": {
+        "India": "India",
+        "Spain": "España",
+        "Thailand": "Tailandia",
+        "UnitedKingdom": "Reino Unido"
+      },
+      "errors": {
+        "userNameRequired": "El nombre de usuario no puede estar vacío",
+        "emailRequired": "El correo electrónico no puede estar vacío",
+        "emailError": "Por favor, introduzca un correo electrónico válido",
+        "passwordsDoNotMatch": "Las contraseñas no coinciden",
+        "passwordRequired": "La contraseña no puede estar vacía",
+        "Username should be alphanumeric with atleast 5 characters": "El nombre de usuario debe ser alfanumérico y tener al menos 5 caracteres",
+        "Username should begin with alphabets and can be alphanumeric with atleast 5 characters": "El nombre de usuario debe comenzar con letras y puede ser alfanumérico con al menos 5 caracteres",
+        "Username should contain alphabets and atleast 6 characters": "El nombre de usuario debe contener letras y al menos 6 caracteres",
+        "Username should contain lower case alphabets and atleast 4 characters": "El nombre de usuario debe contener letras minúsculas y al menos 4 caracteres",
+        "Invalid Username password or country": "Nombre de usuario, contraseña o país no válido"
+      }
+    },
+    "home": {
+      "welcome": "Bienvenido",
+      "email": "Correo electrónico: ",
+      "country": "País: ",
+      "logout": "Cerrar sesión"
+    }
+  }
+  

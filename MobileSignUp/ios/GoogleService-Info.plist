@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAYzQZ367eZLfTuleRT2K2YF-2Yh112p2w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>369471627313</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.MobileSignUp</string>
+	<key>PROJECT_ID</key>
+	<string>mysignup-8a232</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mysignup-8a232.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:369471627313:ios:6ff0a0b64108e86bd33510</string>
+	<key>DATABASE_URL</key>
+	<string>https://mysignup-8a232-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

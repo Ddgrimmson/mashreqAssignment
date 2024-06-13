@@ -1,0 +1,30 @@
+{
+  "appName": "Mashreq Assignment",
+  "selectLanguage": "Select Language",
+  "login": {
+    "signIn": "Sign In",
+    "username": "Username",
+    "password": "Password",
+    "country": "Country",
+    "submitBtn": "Sign In",
+    "countries": {
+      "India": "India",
+      "Spain": "Spain",
+      "Thailand": "Thailand",
+      "UnitedKingdom": "United Kingdom"
+    },
+    "errors": {
+      "Username should be alphanumeric with atleast 5 characters": "Username should be alphanumeric with atleast 5 characters",
+      "Username should begin with alphabets and can be alphanumeric with atleast 5 characters": "Username should begin with alphabets and can be alphanumeric with atleast 5 characters",
+      "Username should contain alphabets and atleast 6 characters": "Username should contain alphabets and atleast 6 characters",
+      "Username should contain lower case alphabets and atleast 4 characters": "Username should contain lower case alphabets and atleast 4 characters",
+      "Invlaid Username password or country": "Invlaid Username password or country"
+    }
+  },
+  "home": {
+    "welcome": "Welcome",
+    "email": "Email",
+    "country": "Country",
+    "logout": "Lougout"
+  }
+}

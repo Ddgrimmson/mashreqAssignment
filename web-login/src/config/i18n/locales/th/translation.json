@@ -1,0 +1,31 @@
+{
+    "appName": "การบ้าน Mashreq",
+    "selectLanguage": "เลือกภาษา",
+    "login": {
+      "signIn": "เข้าสู่ระบบ",
+      "username": "ชื่อผู้ใช้",
+      "password": "รหัสผ่าน",
+      "country": "ประเทศ",
+      "submitBtn": "เข้าสู่ระบบ",
+      "countries": {
+        "India": "อินเดีย",
+        "Spain": "สเปน",
+        "Thailand": "ประเทศไทย",
+        "UnitedKingdom": "สหราชอาณาจักร"
+      },
+      "errors": {
+        "Username should be alphanumeric with atleast 5 characters": "ชื่อผู้ใช้ต้องเป็นอักษรและตัวเลขอย่างน้อย 5 ตัวอักษร",
+        "Username should begin with alphabets and can be alphanumeric with atleast 5 characters": "ชื่อผู้ใช้ต้องเริ่มต้นด้วยตัวอักษรและสามารถเป็นอักษรและตัวเลขอย่างน้อย 5 ตัวอักษร",
+        "Username should contain alphabets and atleast 6 characters": "ชื่อผู้ใช้ต้องมีตัวอักษรและอย่างน้อย 6 ตัวอักษร",
+        "Username should contain lower case alphabets and atleast 4 characters": "ชื่อผู้ใช้ต้องมีตัวอักษรตัวพิมพ์เล็กและอย่างน้อย 4 ตัวอักษร",
+        "Invlaid Username password or country": "ชื่อผู้ใช้ รหัสผ่าน หรือประเทศไม่ถูกต้อง"
+      }
+    },
+    "home": {
+      "welcome": "ยินดีต้อนรับ",
+      "email": "อีเมล",
+      "country": "ประเทศ",
+      "logout": "ออกจากระบบ"
+    }
+  }
+  

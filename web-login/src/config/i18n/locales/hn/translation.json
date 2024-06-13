@@ -1,0 +1,31 @@
+{
+    "appName": "मशरेक असाइनमेंट",
+    "selectLanguage": "भाषा चुनें",
+    "login": {
+      "signIn": "साइन इन करें",
+      "username": "उपयोगकर्ता नाम",
+      "password": "पासवर्ड",
+      "country": "देश",
+      "submitBtn": "साइन इन करें",
+      "countries": {
+        "India": "भारत",
+        "Spain": "स्पेन",
+        "Thailand": "थाईलैंड",
+        "UnitedKingdom": "यूनाइटेड किंगडम"
+      },
+      "errors": {
+        "Username should be alphanumeric with atleast 5 characters": "उपयोगकर्ता नाम अल्फान्यूमेरिक होना चाहिए और कम से कम 5 अक्षर होने चाहिए",
+        "Username should begin with alphabets and can be alphanumeric with atleast 5 characters": "उपयोगकर्ता नाम अक्षरों से शुरू होना चाहिए और अल्फान्यूमेरिक हो सकता है और कम से कम 5 अक्षर होने चाहिए",
+        "Username should contain alphabets and atleast 6 characters": "उपयोगकर्ता नाम में अक्षर और कम से कम 6 अक्षर होने चाहिए",
+        "Username should contain lower case alphabets and atleast 4 characters": "उपयोगकर्ता नाम में छोटे अक्षर होने चाहिए और कम से कम 4 अक्षर होने चाहिए",
+        "Invlaid Username password or country": "अमान्य उपयोगकर्ता नाम, पासवर्ड या देश"
+      }
+    },
+    "home": {
+      "welcome": "स्वागत है",
+      "email": "ईमेल",
+      "country": "देश",
+      "logout": "लॉग आउट"
+    }
+  }
+  
